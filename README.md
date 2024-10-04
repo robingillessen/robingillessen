@@ -1,5 +1,4 @@
-# 💫 About Me:
-Freelance Frontend Developer<br><br>Next.js, React.js, TypeScript<br>Custom Shopify builds & more<br><br>Focus on UX & Scalability
+## Freelance Frontend Developer<br><br>Next.js, React.js, TypeScript<br>Custom Shopify builds & more<br><br>Focus on UX & Scalability
 
 
 ## 🌐 Socials:
